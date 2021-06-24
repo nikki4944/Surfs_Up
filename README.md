@@ -10,8 +10,7 @@ For our analysis, the investor has requested a statistical summary of the temper
 
 The weather data for June and December is fairly consistent; however, there are three key differences as demonstrated by the statistical analysis tables.
 
-<img width="155" alt="June Temperatures" src="https://user-images.githubusercontent.com/82982901/123336753-4c3c1400-d514-11eb-8ab8-165b50c5ccf1.png">
-<img width="188" alt="December Temperatures" src="https://user-images.githubusercontent.com/82982901/123336762-4f370480-d514-11eb-9ea6-7dc2d66023db.png">
+<img width="155" alt="June Temperatures" src="https://user-images.githubusercontent.com/82982901/123336753-4c3c1400-d514-11eb-8ab8-165b50c5ccf1.png"><img width="188" alt="December Temperatures" src="https://user-images.githubusercontent.com/82982901/123336762-4f370480-d514-11eb-9ea6-7dc2d66023db.png">
 
 1. As the count lines indicate, the June analysis includes more readings than December. This is due to the provided data set ending in August of 2017, resulting in June having seven years of data to analyze and December having six years.
 2. Temperatures in December are more erratic based on its slightly larger standard deviation. The June standard deviation is 3.26 while the December number is 3.75.
