@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-A potential investor in a combination surf and ice cream shop located in Hawaii has concerns about the effect of weather on the business. In order to reassure themselves as to the security of the investment, they have provided weather data for Oauhu, the island the shop will be located, for analysis. The data spans seven years, from January 2010 through August 2017, and measures the daily temperatures and precipitaion as measured by local weather stations.
+A potential investor in a combination surf and ice cream shop located in Hawaii has concerns about the effect of weather on the business. In order to reassure themselves as to the security of the investment, they have provided weather data for Oauhu, the proposed site of the shop, for analysis. The data spans seven years, from January 2010 through August 2017, and measures the daily temperatures and precipitaion as measured by local weather stations.
 
 For our analysis, the investor has requested a statistical summary of the temperatures for June and December as recorded in the data set they provided.
 
