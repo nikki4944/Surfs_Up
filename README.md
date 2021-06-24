@@ -8,7 +8,7 @@ For our analysis, the investor has requested a statistical summary of the temper
 
 ## Results
 
-The weather data for June and December is fairly consistent; however, there are three key differences as demonstrated by the statistical analyses tables.
+The weather data for June and December is fairly consistent; however, there are three key differences as demonstrated by the statistical analysis tables.
 
 <img width="155" alt="June Temperatures" src="https://user-images.githubusercontent.com/82982901/123336753-4c3c1400-d514-11eb-8ab8-165b50c5ccf1.png">
 <img width="188" alt="December Temperatures" src="https://user-images.githubusercontent.com/82982901/123336762-4f370480-d514-11eb-9ea6-7dc2d66023db.png">
